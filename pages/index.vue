@@ -2,12 +2,8 @@
   <div class="container">
     <div>
       <logo />
-      <h1 class="title">
-        Hello
-      </h1>
-      <h2 class="subtitle">
-        Hello World From Nuxt.js
-      </h2>
+      <h1 class="title">Hello</h1>
+      <h2 class="subtitle">Hello World From Nuxt.js</h2>
     </div>
   </div>
 </template>
